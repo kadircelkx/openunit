@@ -2,7 +2,7 @@
 
 All notable changes to the OpenUnit project will be documented in this file.
 
-The format follows the guidelines of [Keep a Changelog], and the project adheres to [Semantic Versioning].
+The format follows the guidelines of [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and the project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.0.1] - 2024-06-09
 
